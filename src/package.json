@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/BenSturley/medicator#readme",
   "dependencies": {
-    "eslint": "^5.8.0"
+    "eslint": "^5.8.0",
+    "nedb": "^1.8.0"
   }
 }
